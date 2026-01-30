@@ -1,10 +1,27 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Edilberto Contreras   
+Id.: 000586211   
 ---
 # Evaluación
+# Proyecto: Uso de Consola y Git
+
+Este repositorio contiene documentación introductoria sobre el uso de la consola de comandos, la creación y gestión de repositorios locales con Git, y la sincronización de estos con repositorios remotos en GitHub.  
+El objetivo del proyecto es aprender y practicar los conceptos básicos de control de versiones y manejo de proyectos desde la línea de comandos.
+
+
+## 🚀 Clonar y ejecutar el proyecto
+
+Sigue estos pasos para clonar el repositorio en tu computador y acceder a su contenido:
+
+1. Abre la consola o terminal.
+2. Clona el repositorio usando el siguiente comando:
+
+bash
+- [link docs]("C:\Users\B09S202est\Documents\programacion_2026\prog-git-funtamentals-EdilbertoContreras\docs")
+
 
 ### **Descripción de la Actividad:**
 
