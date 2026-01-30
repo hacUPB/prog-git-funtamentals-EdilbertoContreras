@@ -1,3 +1,8 @@
+![Imagen random]("C:\Users\B09S202est\Pictures\Screenshots\Captura de pantalla 2026-01-30 145647.png")  
+![Imagen random]("C:\Users\B09S202est\Pictures\Screenshots\Captura de pantalla 2026-01-30 144307.png")  
+![Imagen random]("C:\Users\B09S202est\Pictures\Screenshots\Captura de pantalla 2026-01-30 142039.png")
+
+
 # Uso de la Consola
 
 La consola (o terminal) es una herramienta fundamental que permite interactuar directamente con el sistema operativo mediante comandos de texto. En esta unidad se aprendieron los conceptos básicos para navegar por el sistema de archivos, crear carpetas y archivos, y ejecutar acciones comunes de desarrollo.
