@@ -11,6 +11,12 @@ Id.: 000586211
 Este repositorio contiene documentación introductoria sobre el uso de la consola de comandos, la creación y gestión de repositorios locales con Git, y la sincronización de estos con repositorios remotos en GitHub.  
 El objetivo del proyecto es aprender y practicar los conceptos básicos de control de versiones y manejo de proyectos desde la línea de comandos.
 
+## 📚 Tabla de Contenido
+
+- [Uso de la Consola](docs/uso_consola.md)
+- [Repositorio Local con Git](docs/repositorio_local.md)
+- [Repositorio Remoto en GitHub](docs/repositorio_remoto.md)
+
 
 ## 🚀 Clonar y ejecutar el proyecto
 
