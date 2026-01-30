@@ -1,0 +1,1 @@
+El archivo .gitignore en proyectos de programación sirve para indicarle a Git qué archivos o carpetas (como dependencias, archivos temporales, logs o configuraciones locales) no debe rastrear ni subir al repositorio. Esto mantiene el proyecto limpio, seguro, eficiente y ordenado, evitando compartir datos sensibles o innecesarios. 
